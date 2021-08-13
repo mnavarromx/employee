@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: ${DB_EMPLOYEE_URL}
+    driverClassName: org.h2.Driver
+    username: ${DB_EMPLOYEE_USERNAME}
+    password: ${DB_EMPLOYEE_PASSWORD}
